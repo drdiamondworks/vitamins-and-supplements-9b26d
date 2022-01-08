@@ -148,13 +148,19 @@ bottomSections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      تستخدم  لإبطاء نمو الشعر، لأنها تساعد على نموه وإطاله بطريقة صحية.
+      بيرفكتيل أوريجينال هير يمنع الكسر، ويكسر العمر ويقشر ويغذي سطح الأظافر.
+      منع حبوب Perfectil الأصلية من اصفرار لون الأظافر وإعادة لمعانها. بيرفيكتيل
+      أوريجينال هير يعالج الكسر والضعف، وكذلك Perfectil لتساقط الشعر. تنبت أقراص
+      Perfectil وتملأ تجاويف فروة الرأس، مما يجعلها صحية وصحية. تعمل أقراص
+      Perfectil على علاج تغير اللون ولون البشرة الشاحب واكتساب النضارة والحيوية
+      والمظهر الصحي. يوفر فيتامين بيرفكتيل للبشرة مرونة كبيرة وترطيب. يحتوي
+      Perfectil الأصلي على مضادات الأكسدة لحماية البشرة من أضرار أشعة الشمس
+      لفترات طويلة. يساعد Prefectil على نمو الأنسجة وتجديد الخلايا ويمنع خطر
+      الشيخوخة المبكرة. Perfectil مفيد للحفاظ على صحة البشرة والشعر والأظافر
+      لأطول فترة ممكنة. توفر حبوب Perfectil الأصلية العناصر الغذائية بشكل مكثف
+      لجميع عناصر الجسم.
     styles:
       self:
         height: auto
