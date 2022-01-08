@@ -23,7 +23,7 @@ bottomSections:
         altText: ''
         url: '#more'
         showIcon: true
-        icon: arrowRight
+        icon: arrowLeftCircle
         iconPosition: right
         style: primary
         elementId: ''
