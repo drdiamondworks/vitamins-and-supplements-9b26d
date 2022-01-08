@@ -123,11 +123,11 @@ bottomSections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: right
+        textAlign: left
       subtitle:
-        textAlign: right
+        textAlign: left
       text:
-        textAlign: right
+        textAlign: left
     type: TextSection
 layout: PostLayout
 author: content/data/team/person-cxm81826f.json
