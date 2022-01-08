@@ -7,8 +7,6 @@
 @layer base {
     body {
         @apply bg-main text-base;
-        <style>
-body{
 direction:rtl;
 text-align:right
     }
