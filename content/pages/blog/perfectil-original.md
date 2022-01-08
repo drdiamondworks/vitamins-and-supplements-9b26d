@@ -57,13 +57,31 @@ bottomSections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      بيرفكتيل أوريجينال للشعر هو مكمل غذائي مع مزيج فريد من الفيتامينات
+      والمعادن التي تنشط البشرة والشعر والأظافر، مما يمنحها القوة والصحة
+      والحيوية.
+
+
+      ![](https://preview--vitamins-and-supplements-9b26d.stackbit.dev/images/perfectil-original.jpg)
+
+
+      يساعد على استعادة نضارة الجلد، ويغذي بصيلات الشعر من الجذور إلى الأطراف،
+      ويقوي الأظافر ويمنع الكسر.
+
+
+      يحمي Perfectil Original من تساقط الشعر ويضمن نمو الشعر الطبيعي. كما أنه
+      يعطي نضارة ومرونة للبشرة ويحميها من تأثيرات الهواء والغبار.
+
+
+      كما أنه يحمي البشرة من خطر الإصابة بالسرطان والتعرض الضار لأشعة الشمس،
+      ويعيد صحة وحيوية وقوة الشعر والجلد والأظافر.
+
+
+      تأتي المكونات الأصلية المثالية على شكل كبسولات سهلة البلع آمنة تمامًا
+      للاستخدام وتحتوي على 20 نوعًا من الفيتامينات والمعادن ومضادات الأكسدة
+      لحماية البشرة من أضرار أشعة الشمس. أهم المكونات هي:
+
     styles:
       self:
         height: auto
