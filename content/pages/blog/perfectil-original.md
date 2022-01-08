@@ -187,13 +187,20 @@ bottomSections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      يتم استخدام أقراص Perfectil الأصلية مع كبسولة واحدة في اليوم، ويفضل بعد
+      الإفطار مع مياه الشرب. يجب ملاحظة الجرعات المشار إليها من فيتامين
+      بارفيكتيل وعدم تجاوزها. فترة العلاج ثلاثة أشهر على الأقل ويمكن تمديدها إلى
+      6 أشهر. هل حبوب منع الحمل Prefectile تجعلك سمينًا؟ يتساءل الكثير من الناس
+      عما إذا كانت حبوب منع الحمل تجعلك سمينًا. الجواب هو أن Perfectil Original
+      لا يؤثر على الوزن ولا يسبب زيادة ملحوظة في الوزن مع الاستخدام المطول. ضرر
+      حبوب الشعر Perfectil plus هو منتج آمن خالٍ من المواد الصناعية والكيميائية
+      الضارة وليس له أي آثار جانبية. ومع ذلك, هناك بعض التحذيرات عند استخدامه:
+      يمكن أن يسبب أخذ Perfectil Original أحيانًا طعمًا معدنيًا في فمك. نادرا ما
+      يسبب استخدام أقراص prefectile الإمساك والانتفاخ ومشاكل في المعدة. لا ينصح
+      باستخدام حبوب منع الحمل parfectil للنساء الحوامل أثناء الحمل والرضاعة دون
+      استشارة الطبيب. يتم تخزين الكمال الأصلي في مكان بارد وجاف. Prufictil
+      Original هو دواء للبالغين ويمكن الاحتفاظ به بعيدًا عن متناول الأطفال.
     styles:
       self:
         height: auto
