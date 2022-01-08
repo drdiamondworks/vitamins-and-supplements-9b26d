@@ -125,9 +125,9 @@ bottomSections:
       title:
         textAlign: right
       subtitle:
-        textAlign: left
+        textAlign: right
       text:
-        textAlign: left
+        textAlign: right
     type: TextSection
 layout: PostLayout
 author: content/data/team/person-cxm81826f.json
