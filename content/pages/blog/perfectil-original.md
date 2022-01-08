@@ -185,7 +185,7 @@ bottomSections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: طريقة استخدام حبوب برفكتيل
     subtitle: ''
     text: >
       يتم استخدام أقراص Perfectil الأصلية مع كبسولة واحدة في اليوم، ويفضل بعد
