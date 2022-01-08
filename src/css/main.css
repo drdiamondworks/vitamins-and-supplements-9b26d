@@ -28,6 +28,8 @@ text-align:center !important;
     }
     .sb-markdown {
         @apply leading-relaxed;
+        direction:rtl;
+text-align:right !important;
         a {
             @apply underline;
         }
