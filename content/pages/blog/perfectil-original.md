@@ -14,9 +14,10 @@ bottomSections:
     colors: colors-f
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      perfectil original برفكتيل اورجينال يحتوى على أهم الفيتامينات التي تعزز من
+      صحة شعرك وتقويه وتحميه من خطر التساقط وتعمل على نموه بصورة طبيعية وتدعم
+      صحة البشرة ونضارتها وتقوي الأظافر، كل هذا للحفاظ على رونقك وجمالك.
     actions:
       - type: Button
         label: Try it now
