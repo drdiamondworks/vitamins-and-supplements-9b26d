@@ -56,12 +56,12 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/person-cxm81826f.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+بيرفكتيل أوريجينال للشعر هو مكمل غذائي مع مزيج فريد من الفيتامينات والمعادن التي تنشط البشرة والشعر والأظافر، مما يمنحها القوة والصحة والحيوية. 
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+يساعد على استعادة نضارة الجلد، ويغذي بصيلات الشعر من الجذور إلى الأطراف، ويقوي الأظافر ويمنع الكسر.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+ يحمي Perfectil Original من تساقط الشعر ويضمن نمو الشعر الطبيعي. كما أنه يعطي نضارة ومرونة للبشرة ويحميها من تأثيرات الهواء والغبار. 
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+كما أنه يحمي البشرة من خطر الإصابة بالسرطان والتعرض الضار لأشعة الشمس، ويعيد صحة وحيوية وقوة الشعر والجلد والأظافر.
+
+ تأتي المكونات الأصلية المثالية على شكل كبسولات سهلة البلع آمنة تمامًا للاستخدام وتحتوي على 20 نوعًا من الفيتامينات والمعادن ومضادات الأكسدة لحماية البشرة من أضرار أشعة الشمس. أهم المكونات هي:
