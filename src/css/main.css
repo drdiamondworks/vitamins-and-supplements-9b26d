@@ -18,7 +18,7 @@ text-align:right !important;
     h6 {
         @apply break-words;
         line-height: 1.15;direction:rtl;
-text-align:right !important;
+text-align:center !important;
     }
 }
 
