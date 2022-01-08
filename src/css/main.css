@@ -7,6 +7,12 @@
 @layer base {
     body {
         @apply bg-main text-base;
+        <style>
+body{
+direction:rtl;
+text-align:right
+}
+</style>
     }
     h1,
     h2,
