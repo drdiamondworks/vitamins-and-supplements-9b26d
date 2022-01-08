@@ -107,13 +107,6 @@ bottomSections:
   - elementId: ''
     colors: colors-a
     subtitle: ''
-    text: |
-      \<style>
-      body{
-      direction:rtl;
-      text-align:right
-      }
-      \</style>
     styles:
       self:
         height: auto
