@@ -18,7 +18,16 @@ bottomSections:
       perfectil original برفكتيل اورجينال يحتوى على أهم الفيتامينات التي تعزز من
       صحة شعرك وتقويه وتحميه من خطر التساقط وتعمل على نموه بصورة طبيعية وتدعم
       صحة البشرة ونضارتها وتقوي الأظافر، كل هذا للحفاظ على رونقك وجمالك.
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     backgroundImage: null
     styles:
       self:
