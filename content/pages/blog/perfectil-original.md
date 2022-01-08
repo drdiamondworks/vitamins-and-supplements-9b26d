@@ -146,7 +146,7 @@ bottomSections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: فوائد حبوب Perfectil Original
     subtitle: ''
     text: >
       تستخدم  لإبطاء نمو الشعر، لأنها تساعد على نموه وإطاله بطريقة صحية.
