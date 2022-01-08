@@ -123,7 +123,7 @@ bottomSections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: right
       subtitle:
         textAlign: left
       text:
