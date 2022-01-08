@@ -20,7 +20,7 @@ bottomSections:
       صحة البشرة ونضارتها وتقوي الأظافر، كل هذا للحفاظ على رونقك وجمالك.
     actions:
       - type: Button
-        label: Learn More
+        label: المزيد
         showIcon: true
         icon: arrowRight
         url: /
