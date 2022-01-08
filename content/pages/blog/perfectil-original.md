@@ -55,7 +55,7 @@ bottomSections:
     type: CtaSection
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: بيرفكتيل أوريجينال
     subtitle: ''
     text: >+
       بيرفكتيل أوريجينال للشعر هو مكمل غذائي مع مزيج فريد من الفيتامينات
