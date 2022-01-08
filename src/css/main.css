@@ -8,7 +8,7 @@
     body {
         @apply bg-main text-base;
 direction:rtl;
-text-align:right
+text-align:right;
     }
     h1,
     h2,
