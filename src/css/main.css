@@ -32,7 +32,8 @@ text-align:center !important;
 text-align:right !important;
 img{
 
-    displa
+    display:block;
+    margin:auto
 }
         a {
             @apply underline;
