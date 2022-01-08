@@ -21,7 +21,7 @@ bottomSections:
     actions:
       - label: المزيد
         altText: ''
-        url: '#content'
+        url: '#more'
         showIcon: false
         icon: arrowRight
         iconPosition: right
