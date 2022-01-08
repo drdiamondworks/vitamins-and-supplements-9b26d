@@ -22,7 +22,7 @@ bottomSections:
       - label: المزيد
         altText: ''
         url: '#more'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
