@@ -53,7 +53,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - elementId: ''
+  - elementId: more
     colors: colors-a
     title: بيرفكتيل أوريجينال
     subtitle: ''
