@@ -25,6 +25,8 @@ text-align:center !important;
 @layer components {
     .sb-component.overlap {
         @apply -mt-72 relative z-10;
+        direction:rtl;
+text-align:right !important;
     }
     .sb-markdown {
         @apply leading-relaxed;
